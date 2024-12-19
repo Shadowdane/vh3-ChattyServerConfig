@@ -15,8 +15,8 @@
                 "id": "the_vault:vault_bronze",
                 "count": {
                   "type": "uniform",
-                  "min": 3,
-                  "max": 7
+                  "min": 2,
+                  "max": 6
                   }
                 }
             }
@@ -31,8 +31,8 @@
                 "id": "the_vault:vault_bronze",
                 "count": {
                   "type": "uniform",
-                  "min": 3,
-                  "max": 14
+                  "min": 2,
+                  "max": 12
                   }
                 }
             },
@@ -57,8 +57,8 @@
                 "id": "the_vault:vault_bronze",
                 "count": {
                   "type": "uniform",
-                  "min": 7,
-                  "max": 18
+                  "min": 6,
+                  "max": 16
                   }
                 }
             }
@@ -73,7 +73,7 @@
                   "count": {
                     "type": "uniform",
                     "min": 12,
-                    "max": 24
+                    "max": 22
                     }
                 }
             },
@@ -84,7 +84,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 2,
-                  "max": 4
+                  "max": 3
                   }
               }
           }
