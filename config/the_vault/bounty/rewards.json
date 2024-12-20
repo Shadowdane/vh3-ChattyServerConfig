@@ -43,8 +43,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 6,
-                "maxCount": 14
+                "minCount": 8,
+                "maxCount": 16
               },
               "weight": 50
             },
@@ -345,8 +345,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 18
+                "minCount": 10,
+                "maxCount": 20
               },
               "weight": 70
             },
@@ -657,7 +657,7 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 10,
+                "minCount": 12,
                 "maxCount": 24
               },
               "weight": 80
@@ -946,8 +946,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 3
+                "minCount": 4,
+                "maxCount": 7
               },
               "weight": 8
             },
@@ -1019,8 +1019,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 16,
-                "maxCount": 32
+                "minCount": 22,
+                "maxCount": 48
               },
               "weight": 80
             },
@@ -1238,8 +1238,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 3
+                "minCount": 3,
+                "maxCount": 7
               },
               "weight": 12
             },
@@ -1322,8 +1322,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 16,
-                "maxCount": 32
+                "minCount": 20,
+                "maxCount": 38
               },
               "weight": 50
             },
@@ -1531,8 +1531,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 4
+                "minCount": 3,
+                "maxCount": 7
               },
               "weight": 12
             },
@@ -1615,8 +1615,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 12,
-                "maxCount": 24
+                "minCount": 22,
+                "maxCount": 36
               },
               "weight": 50
             },
@@ -1794,8 +1794,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 4
+                "minCount": 3,
+                "maxCount": 5
               },
               "weight": 12
             },
@@ -1908,8 +1908,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 12,
-                "maxCount": 24
+                "minCount": 20,
+                "maxCount": 40
               },
               "weight": 50
             },
@@ -2087,8 +2087,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 4
+                "minCount": 3,
+                "maxCount": 6
               },
               "weight": 12
             },
@@ -2203,8 +2203,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 6,
-                "maxCount": 15
+                "minCount": 8,
+                "maxCount": 20
               },
               "weight": 70
             },
@@ -2485,8 +2485,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 12,
-                "maxCount": 21
+                "minCount": 18,
+                "maxCount": 30
               },
               "weight": 70
             },
@@ -2747,8 +2747,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 12,
-                "maxCount": 24
+                "minCount": 22,
+                "maxCount": 40
               },
               "weight": 70
             },
@@ -3006,8 +3006,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 3
+                "minCount": 3,
+                "maxCount": 7
               },
               "weight": 8
             },
@@ -3059,8 +3059,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 15,
-                "maxCount": 25
+                "minCount": 22,
+                "maxCount": 38
               },
               "weight": 80
             },
@@ -3268,8 +3268,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 3
+                "minCount": 3,
+                "maxCount": 5
               },
               "weight": 12
             },
@@ -3372,8 +3372,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 22,
-                "maxCount": 30
+                "minCount": 26,
+                "maxCount": 48
               },
               "weight": 50
             },
@@ -3581,8 +3581,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 3,
-                "maxCount": 6
+                "minCount": 4,
+                "maxCount": 8
               },
               "weight": 10
             },
@@ -3705,8 +3705,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 21,
-                "maxCount": 34
+                "minCount": 24,
+                "maxCount": 42
               },
               "weight": 50
             },
@@ -3894,8 +3894,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 3,
-                "maxCount": 6
+                "minCount": 4,
+                "maxCount": 8
               },
               "weight": 10
             },
@@ -4028,8 +4028,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 18,
-                "maxCount": 26
+                "minCount": 24,
+                "maxCount": 48
               },
               "weight": 50
             },
@@ -4207,8 +4207,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 2,
-                "maxCount": 5
+                "minCount": 4,
+                "maxCount": 9
               },
               "weight": 12
             },
@@ -5262,8 +5262,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 6,
-                "maxCount": 12
+                "minCount": 8,
+                "maxCount": 16
               },
               "weight": 70
             },
@@ -5553,8 +5553,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 8,
-                "maxCount": 16
+                "minCount": 12,
+                "maxCount": 23
               },
               "weight": 80
             },
@@ -5834,8 +5834,8 @@
                 "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
-                "minCount": 12,
-                "maxCount": 24
+                "minCount": 22,
+                "maxCount": 38
               },
               "weight": 50
             },
@@ -6062,8 +6062,8 @@
                 "stack": {
                   "item": "the_vault:black_chromatic_steel_ingot"
                 },
-                "minCount": 3,
-                "maxCount": 6
+                "minCount": 4,
+                "maxCount": 8
               },
               "weight": 6
             },
