@@ -1,4 +1,5 @@
 This is a customized configuration for the Vault Hunters 3.16.x Minecraft Modpack!   This configuration is used on the Official Shacknews Vault Hunters SMP.
+
 I wasn't originally intending to upload this to Github, so I didn't keep track of all the configuration changes.   Below is a general summary of changes.
 
 
