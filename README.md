@@ -1,4 +1,4 @@
-This is a customized configuration for the Vault Hunters 3.16.x Minecraft Modpack!   This configuration is used on the Official Shacknews Vault Hunters SMP.
+This is a customized configuration for the Vault Hunters 3.16.x Minecraft Modpack!   This configuration is used on the Official Chatty Vault Hunters SMP.
 
 I wasn't originally intending to upload this to Github, so I didn't keep track of all the configuration changes.   Below is a general summary of changes.
 
@@ -16,3 +16,4 @@ Major Configuration Changes
 - Increased drop chance of Hammering Jewel
 - Removed the 0% weight from any loot in Crates
 - Rebalanced the loot tables for: Coin Piles, Gilded Chests, Living Chests, Ornate Chests & Wooden Chests
+- Replaced barrels in dungeons with the normal chests (Also fixed the dungeon loot tables)
