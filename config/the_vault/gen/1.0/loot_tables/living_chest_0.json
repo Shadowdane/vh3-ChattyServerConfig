@@ -156,7 +156,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
+                  "max": 3
                   }
               }
             }
@@ -165,29 +165,18 @@
         { "weight": 2,
           "pool": [
             {
-                "weight": 20,
+                "weight": 16,
                 "item": {
                   "id": "the_vault:knowledge_star_essence",
                   "count": {
                     "type": "uniform",
-                    "min": 2,
-                    "max": 3
+                    "min": 3,
+                    "max": 4
                     }
                 }
             },
             {
-                "weight": 2,
-                "item": {
-                  "id": "the_vault:knowledge_star_essence",
-                  "count": {
-                    "type": "uniform",
-                    "min": 6,
-                    "max": 10
-                    }
-                }
-            },
-            {
-              "weight": 6,
+              "weight": 12,
               "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
@@ -198,7 +187,7 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 2,
               "item": {
                 "id": "the_vault:living_chest_scroll",
                 "count": {

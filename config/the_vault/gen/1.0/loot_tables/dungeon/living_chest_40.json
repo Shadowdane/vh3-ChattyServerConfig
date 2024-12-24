@@ -190,18 +190,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 2
-                  }
-              }
-            },
-			{
-              "weight": 1,
-              "item": {
-                "id": "the_vault:mystery_egg",
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
+                  "max": 3
                   }
               }
             }
@@ -210,29 +199,18 @@
         { "weight": 2,
           "pool": [
             {
-              "weight": 200,
+              "weight": 16,
               "item": {
                 "id": "the_vault:knowledge_star_essence",
                 "count": {
                   "type": "uniform",
-                  "min": 2,
-                  "max": 3
+                  "min": 3,
+                  "max": 4
                   }
               }
             },
             {
-              "weight": 4,
-              "item": {
-                "id": "the_vault:knowledge_star_essence",
-                "count": {
-                  "type": "uniform",
-                  "min": 8,
-                  "max": 12
-                  }
-              }
-            },
-            {
-              "weight": 8,
+              "weight": 14,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
@@ -243,7 +221,7 @@
               }
             },
             {
-              "weight": 60,
+              "weight": 14,
               "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
@@ -254,7 +232,7 @@
               }
             },
             {
-              "weight": 56,
+              "weight": 12,
               "item": {
                 "id": "the_vault:vault_moss",
                 "count": {
@@ -265,7 +243,7 @@
               }
             },
             {
-              "weight": 16,
+              "weight": 6,
               "item": {
                 "id": "the_vault:living_chest_scroll",
                 "count": {
@@ -276,7 +254,7 @@
               }
             },
             {
-              "weight": 10,
+              "weight": 2,
               "item": {
                 "id": "the_vault:small_charm",
                 "count": {
@@ -287,7 +265,7 @@
               }
             },
             {
-              "weight": 4,
+              "weight": 1,
               "item": {
                 "id": "the_vault:inscription",
                 "nbt": {
