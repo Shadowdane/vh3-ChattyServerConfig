@@ -4,7 +4,7 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 1
+        "max": 2
       },
       "pool": [
 
@@ -151,7 +151,7 @@
         { "weight": 1,
           "pool": [
             {
-              "weight": 5,
+              "weight": 8,
               "item": {
                 "id": "minecraft:air",
                 "count": {
@@ -162,13 +162,13 @@
               }
             },
             {
-              "weight": 1,
+              "weight": 8,
               "item": {
                 "id": "the_vault:jewel_pouch",
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             }
@@ -193,7 +193,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
@@ -204,7 +204,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
@@ -214,7 +214,7 @@
                 "id": "the_vault:chaotic_focus",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
+                  "min": 2,
                   "max": 3
                 }
               }
@@ -234,7 +234,7 @@
         { "weight": 1,
           "pool": [
             {
-              "weight": 1,
+              "weight": 8,
               "item": {
                 "id": "the_vault:fundamental_focus",
                 "count": {
@@ -275,8 +275,8 @@
                 "id": "the_vault:vault_gold",
                 "count": {
                   "type": "uniform",
-                  "min": 7,
-                  "max": 10
+                  "min": 10,
+                  "max": 18
                 }
               }
             }
@@ -301,7 +301,7 @@
                 "count": {
                   "type": "uniform",
                   "min": 1,
-                  "max": 1
+                  "max": 2
                 }
               }
             },
@@ -311,8 +311,8 @@
                 "id": "the_vault:sweet_kiwi",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
-                  "max": 2
+                  "min": 2,
+                  "max": 3
                 }
               }
             },
@@ -322,7 +322,7 @@
                 "id": "the_vault:grapes",
                 "count": {
                   "type": "uniform",
-                  "min": 1,
+                  "min": 2,
                   "max": 2
                 }
               }
@@ -360,7 +360,7 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 1
+        "max": 2
       },
       "pool": [
 
@@ -537,7 +537,7 @@
       "roll": {
         "type": "uniform",
         "min": 1,
-        "max": 1
+        "max": 2
       },
       "pool": [
 

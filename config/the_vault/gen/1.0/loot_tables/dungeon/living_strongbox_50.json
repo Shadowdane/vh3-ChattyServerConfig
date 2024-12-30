@@ -220,7 +220,7 @@
               }
             },
             {
-              "weight": 24,
+              "weight": 29,
               "item": {
                 "id": "the_vault:mystery_egg",
                 "count": {
@@ -253,7 +253,7 @@
               }
             },
             {
-              "weight": 24,
+              "weight": 28,
               "item": {
                 "id": "the_vault:inscription_piece",
                 "count": {
